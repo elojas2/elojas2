@@ -24,7 +24,6 @@ Here are some i****deas to get you started:
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 )](mailto:eloysefsc@id.uff.br)
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 
 ## Technologies I use on a daily basis
