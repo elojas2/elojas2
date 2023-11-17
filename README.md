@@ -3,7 +3,7 @@
 <!--
 **elojas2/elojas2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some i****deas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Oieeee, me chamo Eloyse Fernanda✋
+## Student of Information Systems at UFF
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+)](https://www.linkedin.com/in/eloyse-fernanda-ab70221ab/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+)](mailto:eloysefsc@id.uff.br)
+
+![elojas2 GitHub stats](https://github-readme-stats.vercel.app/api?username=elojas2&show_icons=true&theme=radical)        
+
