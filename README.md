@@ -10,7 +10,7 @@
 
 ## Formada em Desenvolvimento de Sistemas pelo Colégio Pedro II e atualmente cursando Sistemas de Informações pela UFF
 </br>
-<h3>Ferramentas e tecnologias que já usei</h3>
+<h4>Ferramentas e tecnologias que já usei</h4>
 
 <div style="display: inline_block" align="center"><br>
       <img align="center" alt="Eloyse-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
