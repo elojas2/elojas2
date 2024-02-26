@@ -8,7 +8,7 @@
 )](mailto:eloysefsc@id.uff.br)
 
 
-### Formada em Desenvolvimento de Sistemas pelo Colégio Pedro II e atualmente cursando Sistemas de Informações pela UFF e estagiando na Globo
+### Formada em Desenvolvimento de Sistemas pelo Colégio Pedro II, cursando Sistemas de Informações pela UFF e atualmente estagiária DevOps na Globo
 </br>
 <h4>Ferramentas e tecnologias que já usei</h4>
 
